@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# インストール方法
+``` git clone ```
+``` bundle install ```
+``` rails server ```
