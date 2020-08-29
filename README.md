@@ -27,3 +27,8 @@ Things you may want to cover:
 ``` git clone ```
 ``` bundle install ```
 ``` rails server ```
+
+git command test 20200829
+
+git add . #full documents are added to stading area.
+
