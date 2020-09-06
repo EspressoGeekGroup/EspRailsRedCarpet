@@ -18,10 +18,13 @@
 
   <div class="field ">
     <%= f.label :body %>
-    <%= f.text_area :body %>
+    <%= f.text_area :body ,class:"textArea form-control" ,id:"inText", oninput:"textAreaHeightSet(this)", onchange:"textAreaHeightSet(this)"%>
+
   </div>
   
   <div class="actions">
     <%= f.submit %>
   </div>
 <% end %>
+
+    
